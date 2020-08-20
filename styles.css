@@ -67,7 +67,6 @@ body {
 	background-position: center;
 	animation-name: fade-out;
 	animation-duration: 0.8s;
-	background-color: red;
 	z-index: -1;
 }
 
@@ -79,59 +78,59 @@ body {
 
 
 #c-0 {
-	background-image: url(images/001.jpg);
+	background-image: url(images/001-min.jpg);
 }
 
 #c-1 {
-	background-image: url(images/002.jpg);
+	background-image: url(images/002-min.jpg);
 }
 
 #c-2 {
-	background-image: url(images/003.jpg);
+	background-image: url(images/003-min.jpg);
 }
 
 #c-3 {
-	background-image: url(images/004.jpg);
+	background-image: url(images/004-min.jpg);
 }
 
 #c-4 {
-	background-image: url(images/005.jpg);
+	background-image: url(images/005-min.jpg);
 }
 
 #c-5 {
-	background-image: url(images/006.jpg);
+	background-image: url(images/006-min.jpg);
 }
 
 #c-6 {
-	background-image: url(images/007.jpg);
+	background-image: url(images/007-min.jpg);
 }
 
 #c-7 {
-	background-image: url(images/008.jpg);
+	background-image: url(images/008-min.jpg);
 }
 
 #c-8 {
-	background-image: url(images/009.jpg);
+	background-image: url(images/009-min.jpg);
 }
 
 #c-9 {
-	background-image: url(images/010.jpg);
+	background-image: url(images/010-min.jpg);
 }
 
 #c-10 {
-	background-image: url(images/011.jpg);
+	background-image: url(images/011-min.jpg);
 }
 
 #c-11 {
-	background-image: url(images/012.jpg);
+	background-image: url(images/012-min.jpg);
 }
 
 #c-12 {
-	background-image: url(images/013.jpg);
+	background-image: url(images/013-min.jpg);
 }
 
 #c-13 {
-	background-image: url(images/014.jpg);
+	background-image: url(images/014-min.jpg);
 }
 
 
